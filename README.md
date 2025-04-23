@@ -1,4 +1,4 @@
-# EaglercraftX-Newclient
+# EaglercraftX-game
 
 Eaglercraft X with new textures 
 
